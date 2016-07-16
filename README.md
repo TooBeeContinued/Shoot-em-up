@@ -1,2 +1,2 @@
-Project template project for [HTML5 Shoot 'em Up in an Afternoon]
-
+# Shoot-em-up
+A shoot em up style game made using phaser (javascript framework) as a learning project
